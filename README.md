@@ -1,3 +1,11 @@
-#Udacity-projects
-**Content**
+## Udacity-projects
+**Content** <br>
+
 This respository contains all the completed projects for data analyst Nanodegree of Udacity, including data analyst, statistics, data wrangling and data visualization.
+
+**Projects:**
+
+Data analysis : Medical appointments analysis
+
+Practical statistics : Analyze_A/B_test_results 
+
