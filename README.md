@@ -1,2 +1,2 @@
 # Udacity-projects
-Projects related to data analyst, data wrangling and data visualization
+Projects cover data analyst, statistics, data wrangling and data visualization.
