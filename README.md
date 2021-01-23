@@ -9,3 +9,4 @@ Data analysis : Medical appointments analysis
 
 Practical statistics : Analyze_A/B_test_results 
 
+Data wrangle and clean : WeRateDog projects
