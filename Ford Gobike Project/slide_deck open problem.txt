@@ -1,0 +1,23 @@
+
+https://knowledge.udacity.com/questions/374531
+
+
+
+Hi Kirill,
+
+I ran into the same issue.
+
+I found the following and it worked for me, after making sure the latest version of nbconvert is installed:
+
+Hiding the input is now possible directly from nbconvert as of version 5.2.1: content can be filtered using the built-in template exporter exclude options. For example:
+
+
+jupyter nbconvert --to slides --TemplateExporter.exclude_input=True my_notebook.ipynb
+
+
+
+It looks as if output_toggle is no longer needed.
+
+See also:
+
+https://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer
