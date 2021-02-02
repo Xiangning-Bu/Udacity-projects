@@ -29,8 +29,8 @@ Reorganized  all four dog stages columns as one \
 Using merge method to combine all three tables based on tweet_id
 
 #### Insights 
-Twitter provides a unique rating system to evaluate the popularity of WeRateDogs. According to the above data, the average of  rating is 12/10. In addition, we count the favorite and retweet times, the average count for them is 132810 and 79515 separately. 
-More than that, WeRateDogs have been described by specific dog stages, such as doggo, pupper, puppo and floofer. As we can see from the bar chart, pupper is the mostly used.
+Twitter provides a unique rating system to evaluate the popularity of WeRateDogs. According to the above data, the average of  rating is 12/10. In addition, we count the favorite and retweet times, the average count for them is 132810 and 79515 separately. \
+More than that, WeRateDogs have been described by specific dog stages, such as doggo, pupper, puppo and floofer. As we can see from the bar chart, pupper is the mostly used.\
 One more cool thing, these dogs could be predicted by ran every image in the WeRateDogs Twitter archive through a neural network that can classify breeds of dogs. Surprisingly, the Image prediction successful rate could be more than 70%.  
  
 
